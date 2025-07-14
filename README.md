@@ -3,7 +3,10 @@
 
 # 🎮 CodeQuest Arena - Learn Programming Through Gaming
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://stirring-banoffee-8d1f8e.netlify.app)
+
+🔗 [Click here](https://stirring-banoffee-8d1f8e.netlify.app) to visit the live site
+
+
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC.svg)](https://tailwindcss.com/)
@@ -11,7 +14,6 @@
 
 > **An innovative educational gaming platform that transforms programming education through interactive gameplay, comprehensive learning modules, and gamified progression systems.**
 
-🌐 **Live Demo:** [https://stirring-banoffee-8d1f8e.netlify.app](https://stirring-banoffee-8d1f8e.netlify.app)
 
 ---
 
