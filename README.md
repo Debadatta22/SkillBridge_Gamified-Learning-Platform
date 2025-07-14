@@ -1,5 +1,8 @@
 # SkillBridge_Gamified-Learning-Platform
 
+<img width="1118" height="626" alt="image" src="https://github.com/user-attachments/assets/e9f6425b-040e-471b-b146-40818e26f9ef" />
+
+
 
 # 🎮 CodeQuest Arena - Learn Programming Through Gaming
 
