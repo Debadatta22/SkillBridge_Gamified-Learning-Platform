@@ -9,6 +9,9 @@
 
 ## 🔗 [Click here](https://stirring-banoffee-8d1f8e.netlify.app) to visit the live site
 
+## Download the files from here -
+### 🔗 [SkillBridge_Files](  https://drive.google.com/drive/folders/1-eHz2SIzBfF8aAMWJSFmYsNt5y9tiAs3?usp=sharing)
+
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
